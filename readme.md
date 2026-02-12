@@ -30,4 +30,4 @@ don't use this mod's code as a base for your mod, it's awful. if you do for some
 The Newer SMBW source code and tools, from which this mod is based off of, are released under the MIT license.
 See the `LICENSE` file in this repository for full details.
 
-Copyright (c) 2010-2026 Newer Team
+Copyright (c) 2010-2026 Newer Team, Realism Studios
